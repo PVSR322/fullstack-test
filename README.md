@@ -22,7 +22,7 @@ CREATE TABLE comments (
 
 Выполненную работу можно увидеть здесь ```http://localhost/comments```.
 
-
+Работу выполнял на выделенном сервере Ubuntu 22.04, пришлю рабочую ссылку при необходимости
 
 Email: banlock29@gmail.com
 Pavel Kovalev
